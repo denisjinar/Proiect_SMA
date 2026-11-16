@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="parking_list">Parcări</string>
+    <string name="list_hint">Apasă pe o parcare pentru editare sau ștergere.</string>
+    <string name="empty_list">Nu ai adăugat încă o parcare.</string>
+    <string name="add_parking">Adaugă o parcare</string>
+    <string name="edit_parking">Editează parcarea</string>
+    <string name="name_label">Numele parcării</string>
+    <string name="name_hint">Ex. Parcare Campus</string>
+    <string name="capacity_label">Număr total de locuri</string>
+    <string name="available_label">Locuri disponibile</string>
+    <string name="manual_availability">Disponibilitatea se completează manual.</string>
+    <string name="availability">%1$d din %2$d locuri disponibile</string>
+    <string name="availability_unknown">%1$d locuri în total · disponibilitate necompletată</string>
+    <string name="save">Salvează</string>
+    <string name="cancel">Anulează</string>
+    <string name="delete">Șterge parcarea</string>
+    <string name="delete_confirmation">Ștergi această parcare?</string>
+    <string name="name_error">Introdu numele parcării.</string>
+    <string name="capacity_error">Introdu un număr între 1 și 99999.</string>
+    <string name="available_error">Introdu un număr între 0 și capacitatea totală.</string>
+    <string name="parking_missing">Parcarea nu mai există.</string>
+    <string name="read_error">Datele nu au putut fi încărcate.</string>
+    <string name="save_error">Datele nu au putut fi salvate. Încearcă din nou.</string>
+    <string name="delete_error">Parcarea nu a putut fi ștearsă. Încearcă din nou.</string>
+</resources>
